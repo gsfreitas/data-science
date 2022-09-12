@@ -18,6 +18,6 @@ Devido às experiências que vivenciei, passei a enxergar o mundo através de di
 * **Linkedin:** https://www.linkedin.com/in/gabrielsfreitas/
 
 ## Projetos:
-Veja os projetos realizados no CDD Brasil:
+Veja os projetos realizados sobre Data Science:
 
 * **WordCloud:
