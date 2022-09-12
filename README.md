@@ -20,4 +20,4 @@ Devido às experiências que vivenciei, passei a enxergar o mundo através de di
 ## Projetos:
 Veja os projetos realizados sobre Data Science:
 
-* **WordCloud:
+* **WordCloud:**
