@@ -20,4 +20,4 @@ Devido às experiências que vivenciei, passei a enxergar o mundo através de di
 ## Projetos:
 Veja os projetos realizados sobre Data Science:
 
-* **WordCloud:**
+* **Machine Learning para prever preços de imóveis usando o Spark ML:** https://github.com/gsfreitas/data_science/blob/main/Regress%C3%A3oSpark.ipynb
