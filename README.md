@@ -21,3 +21,4 @@ Devido às experiências que vivenciei, passei a enxergar o mundo através de di
 Veja os projetos realizados sobre Data Science:
 
 * **Machine Learning para prever preços de imóveis usando o Spark ML:** https://github.com/gsfreitas/data_science/blob/main/Regress%C3%A3oSpark.ipynb
+* **Modelo de Classificação para identificar Churn:** https://github.com/gsfreitas/data_science/blob/main/Spark_Classificacao.ipynb
