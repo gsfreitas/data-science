@@ -22,4 +22,4 @@ Veja os projetos realizados sobre Data Science:
 
 * **Processamento de Linguagem Natural:** https://github.com/gsfreitas/data_science/blob/main/Spark_Analise_NLP.ipynb
 * **Machine Learning para prever preços de imóveis usando o Spark ML:** https://github.com/gsfreitas/data_science/blob/main/Regress%C3%A3oSpark.ipynb
-* **Modelo de Classificação para identificar Churn:** https://github.com/gsfreitas/data_science/blob/main/Spark_Classificacao.ipynb
+* **Prevendo Churn com Machine Learning:** https://github.com/gsfreitas/data_science/blob/main/Spark_Classificacao.ipynb
