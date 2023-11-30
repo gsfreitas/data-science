@@ -24,3 +24,4 @@ Veja os projetos realizados sobre Data Science:
 * **Machine Learning para prever preços de imóveis usando o Spark ML:** https://github.com/gsfreitas/data_science/blob/main/Regress%C3%A3oSpark.ipynb
 * **Prevendo Churn com Machine Learning:** https://github.com/gsfreitas/data_science/blob/main/Spark_Classificacao.ipynb
 * **O espaço de características aplicado em dados de câncer de mama:** https://github.com/gsfreitas/data-science/blob/main/BreastCancer_FeatureSpace.ipynb
+* **Hands On Validação Cruzada:** https://github.com/gsfreitas/data-science/blob/main/cross_validation.ipynb
